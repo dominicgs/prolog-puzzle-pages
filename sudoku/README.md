@@ -13,7 +13,7 @@ Using sudoku.pl
  * Run ```swipl -l sudoku.pl```
  * To solve the sample puzzle use ```sudoku(1).```
  * To solve an arbitrary puzzle you must specify it as follows:
-  ```
+```
 solve(
  (_,6,_,2,_,_,1,_,_,
   _,_,3,_,7,_,_,_,5,
@@ -24,7 +24,7 @@ solve(
   _,3,_,_,_,7,_,_,1,
   8,_,_,_,1,_,3,_,_,
   _,_,4,_,_,8,_,7,_)).
-  ```
+```
 
 Future Development
 ------------------
